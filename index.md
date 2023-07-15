@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Over ons
+# Wat is ScoutPanel
 
 Bent u een bedrijf op zoek naar een unieke manier om uw producten te testen en tegelijkertijd iets terug te doen voor de samenleving? Of bent u een scoutinggroep op zoek naar de juiste uitrusting en ondersteuning? Dan bent u bij ScoutPanel aan het juiste adres!
 
